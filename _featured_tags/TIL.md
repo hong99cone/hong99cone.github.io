@@ -3,7 +3,7 @@ layout: tag-list
 type: tag
 title: TIL
 slug: TIL
-category: blog
+category: studylog
 sidebar: true
 order: 1
 description: >

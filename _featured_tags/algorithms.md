@@ -3,7 +3,7 @@ layout: tag-list
 type: tag
 title: Algorithms
 slug: algorithms
-category: blog
+category: studylog
 sidebar: true
 order: 1
 description: >

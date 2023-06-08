@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Blog
-slug: blog
+title: Review
+slug: review
 sidebar: true
 order: 2
 description: >
-  Blah Blah Blah✨ About FrontEnd Issues 👑
+    Whay I am using...........?
 ---
