@@ -6,5 +6,5 @@ slug: review
 sidebar: true
 order: 2
 description: >
-    Whay I am using...........?
+    Why I am using...........?
 ---
