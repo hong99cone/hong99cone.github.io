@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Example Content
+title: TIL TEST
+category : blog
+tags : TIL
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  This is test
 sitemap: false
 hide_last_modified: true
 ---

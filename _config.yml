@@ -20,15 +20,14 @@
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Cheapest Flight
+title:                 AM:PM
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  FrontEnd Devloper in Republic of Korea
 
 # A shorter description for the sidebar.
-tagline:               Two miles off the ground. And no clouds to be seen. Give me some air that's cold and clean
+tagline:               TOo LaZy
 
 # A list of keywords for your blog
 keywords:              []
@@ -41,15 +40,15 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <03mm007mm@gmail.com>
+  name:                HongJu Park
+  email:               03mm007mm@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /example/
+    url:               /blog/
   - title:             Projects
     url:               /docs/
   - title:             About Me
